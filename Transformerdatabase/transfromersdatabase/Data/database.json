@@ -1,0 +1,100 @@
+{
+  "transformers": [
+    {
+      "name": "Optimus Prime",
+      "faction": "Autobots",
+      "alt_mode": "Semi-Truck",
+      "weapons": [
+        "Ion Blaster",
+        "Energy Axe"
+      ],
+      "image": "https://i.etsystatic.com/6113265/r/il/81caf9/1565698189/il_1080xN.1565698189_srw5.jpg",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Megatron",
+      "faction": "Decepticons",
+      "alt_mode": "Cybertronian Tank",
+      "weapons": [
+        "Fusion Cannon",
+        "Energon Sword"
+      ],
+      "image": "https://i.etsystatic.com/18406528/r/il/461793/6505789125/il_1588xN.6505789125_9kh6.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Bumblebee",
+      "faction": "Autobots",
+      "alt_mode": "Yellow  car",
+      "weapons": [
+        "Plasma Blaster"
+      ],
+      "image": "https://c.tenor.com/Y6AYeNWXp5kAAAAC/tenor.gif"
+    },
+    {
+      "id": "4",
+      "name": "Rodimus Prime",
+      "faction": "Autobots",
+      "alt_mode": "Cybertronian Sports Car",
+      "weapons": [
+        "Photon Eliminator",
+        "Dual Arm Cannons"
+      ],
+      "image": "https://i.etsystatic.com/41478857/r/il/07e000/6211670981/il_fullxfull.6211670981_lqfq.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Starscream",
+      "faction": "Decepticons",
+      "alt_mode": "Fighter Jet",
+      "weapons": [
+        "Null Rays",
+        "Cluster Bombs"
+      ],
+      "image": "https://c.tenor.com/ALeLmF1C64gAAAAd/tenor.gif"
+    },
+    {
+      "id": "6",
+      "name": "Grimlock",
+      "faction": "Autobots",
+      "alt_mode": "T-Rex",
+      "weapons": [
+        "Energon Sword",
+        "Dual Plasma Blasters"
+      ],
+      "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/359787730_734548162009374_633479762742261585_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=aNclLW1OmoEQ7kNvgHkUyvR&_nc_oc=AdmqZGjZwWDWlB73MoxSNRdQ8nM2b0H8n37i8dFktpv2lIEXohg-er8IauLMp-fpcyryJsma1q6Ye0Xqmst-avQV&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=0KT2SC5s4tO1yxgYcURTdQ&oh=00_AYEUyBRW9jiL2KgQFBT1CIQ9kYnWv6drQvLMY52fbCmrKQ&oe=67E1CDBE"
+    },
+    {
+      "id": "7",
+      "name": "Soundwave",
+      "faction": "Decepticons",
+      "alt_mode": "Cybertronian Cassette Player",
+      "weapons": [
+        "Sonic Cannons",
+        "Deployable Mini-Cassette Drones"
+      ],
+      "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/484963604_1179228597258156_1459636562889418708_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=R1JHwxu0yN4Q7kNvgH-FEMj&_nc_oc=AdmXpqqu9BuT2A_tqhnMsk4AIM95dMxzelcuN0r3YxZT7BTo08YAHCKTAizz8_pz3-NLBpLx0EC9RvimKhhzq_Qz&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=NHSJE9cKsJUr66ii7QteEw&oh=00_AYHsIlXU0V3LbjGa2zGq7BLnvsSkHCuw_croo4EqOM2a0g&oe=67E1BA2D"
+    },
+    {
+      "name": "Shockwave",
+      "faction": "Decepticons",
+      "alt_mode": "Cybertronian Gun",
+      "weapons": [
+        "Plasma"
+      ],
+      "image": "https://preview.redd.it/so-whats-the-deal-with-shockwave-v0-nvuhbr13k6bd1.jpeg?auto=webp&s=a2cf8de1c048269bbd2ddc576fd78c24512fbbf6",
+      "id": "8"
+    },
+    {
+      "name": "Gears",
+      "faction": "AutoBotssss",
+      "alt_mode": "Trucks",
+      "weapons": [
+        "Gun"
+      ],
+      "image": "https://tfwiki.net/mediawiki/images2/thumb/b/b6/ChangingGears_Happy_Gears.jpg/300px-ChangingGears_Happy_Gears.jpg",
+      "id": "76cd"
+    }
+  ]
+}

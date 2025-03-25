@@ -1,0 +1,144 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  min-height: 100vh;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFewC8cFC9j-wwS-z9jm9dWkwai8ie3bOw9g&s') center/cover no-repeat;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #080808;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #030303;
+  transition: font-weight 0.3s;
+}
+
+h2:hover {
+  font-weight: bold;
+}
+
+p {
+  color: #444;
+}
+
+input {
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #fdd004;
+  width: 250px;
+  margin: 15px 0;
+  outline: none;
+  transition: 0.3s ease-in-out;
+}
+
+input::placeholder {
+  color: #0e0e0e;
+}
+
+input:focus {
+  border-color: #4CAF50;
+  box-shadow: 0 0 5px rgba(76, 175, 80, 0.5);
+}
+
+.transformer-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.transformer-card {
+  border: 1px solid #0080b3;
+  padding: 20px;
+  width: 260px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.transformer-card:hover {
+  transform: scale(1.05);
+}
+
+img {
+  max-width: 200px;
+  height: auto;
+  border-radius: 10px;
+}
+
+
+button {
+  padding: 12px 25px;
+  font-size: 1rem;
+  color: #222;
+  background: #b8a01c;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+  margin: 5px;
+}
+
+button:hover {
+  background: #e1b100;
+  transform: scale(1.1);
+}
+
+button:active {
+  background: #cc9a00;
+}
+
+button.add-new {
+  background: #4caf50;
+}
+
+button.add-new:hover {
+  background: #45a049;
+}
+
+
+button.edit {
+  background: #0f8457; 
+}
+
+button.edit:hover {
+  background: #0b6343;
+}
+
+button.edit:active {
+  background: #08412c;
+}
+
+
+button.delete {
+  background: #e63946; 
+}
+
+button.delete:hover {
+  background: #c82333;
+}
+
+button.delete:active {
+  background: #a71d2a;
+}
+
+button.cancel {
+  background: #ff4d4d;
+}
+
+button.cancel:hover {
+  background: #e63946;
+}
+
+button.cancel:active {
+  background: #b93232;
+}
+ 
